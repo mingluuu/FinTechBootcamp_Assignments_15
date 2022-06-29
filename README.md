@@ -16,18 +16,18 @@ This project leverages python version 3.7 with the following packages and module
 - dateutil - powerful extensions to datetime by | pip install python-dateutil
 - Create and Activate an AWS Account:
 
-1)Create your account
-2)Add a payment method
-3)Verify your phone number
-4)Choose an AWS support plan
+1) Create your account
+2) Add a payment method
+3) Verify your phone number
+4) Choose an AWS support plan
 - AWS Lex - Builds chatbots with conversational AI.
 - AWS Lambda - Runs code without thinking about servers or clusters.
 
 **Instructions**
 ----
-- Configure the initial robo advisor:
+- **Configure the initial robo advisor:**
 Sign in to your AWS Management Console, and then create a new custom Amazon Lex bot
-- Build and test the robo advisor:
+- **Build and test the robo advisor:**
 Test the RoboAdvisor using downloaded Test Events
-- Enhance the robo advisor with an Amazon Lambda function:
+- **Enhance the robo advisor with an Amazon Lambda function:**
 Download and use Lambda Function called final_lambda_function.py
